@@ -1,0 +1,39 @@
+{
+    "source": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana,cardano",
+    "description": "JSON proxy that returns live cryptocurrency data from CoinGecko",
+    "fetch_instructions": "To use this as a live data source, connect via HTTP Client or your ETL tool to the source URL above. Each time it is requested, it returns updated values.",
+    "example_structure": [
+        {
+            "id": "bitcoin",
+            "symbol": "btc",
+            "name": "Bitcoin",
+            "current_price": 117226,
+            "market_cap": 2337567802441,
+            "last_updated": "2025-10-06T18:00:00Z"
+        },
+        {
+            "id": "ethereum",
+            "symbol": "eth",
+            "name": "Ethereum",
+            "current_price": 4307.31,
+            "market_cap": 520094607484,
+            "last_updated": "2025-10-06T18:00:00Z"
+        },
+        {
+            "id": "solana",
+            "symbol": "sol",
+            "name": "Solana",
+            "current_price": 219.27,
+            "market_cap": 119127145516,
+            "last_updated": "2025-10-06T18:00:00Z"
+        },
+        {
+            "id": "cardano",
+            "symbol": "ada",
+            "name": "Cardano",
+            "current_price": 0.838904,
+            "market_cap": 30657061463,
+            "last_updated": "2025-10-06T18:00:00Z"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+ID;Symbol;Current Price;Market Rank;Last Update
+bitcoin;btc;112409,0;1;2025-10-11T11:44:12.944Z
+ethereum;eth;3829,49;2;2025-10-11T11:44:13.096Z
+solana;sol;183,4;6;2025-10-11T11:44:08.676Z
+cardano;ada;0,664521;11;2025-10-11T11:44:12.235Z

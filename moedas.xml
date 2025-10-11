@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><ID>bitcoin</ID> <Symbol>btc</Symbol> <Current Price>112409,0</Current Price> <Market Rank>1</Market Rank> <Last Update>2025-10-11T11:44:12.944Z</Last Update></Row>
+<Row><ID>ethereum</ID> <Symbol>eth</Symbol> <Current Price>3829,49</Current Price> <Market Rank>2</Market Rank> <Last Update>2025-10-11T11:44:13.096Z</Last Update></Row>
+<Row><ID>solana</ID> <Symbol>sol</Symbol> <Current Price>183,4</Current Price> <Market Rank>6</Market Rank> <Last Update>2025-10-11T11:44:08.676Z</Last Update></Row>
+<Row><ID>cardano</ID> <Symbol>ada</Symbol> <Current Price>0,664521</Current Price> <Market Rank>11</Market Rank> <Last Update>2025-10-11T11:44:12.235Z</Last Update></Row>
+</Rows>
