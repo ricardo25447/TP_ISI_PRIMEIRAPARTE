@@ -13,6 +13,8 @@ A cada execução, o Pentaho:
 2. **Trata o ficheiro JSON** — removendo caracteres desnecessários e extraindo apenas os campos relevantes.  
 3. **Exporta os dados tratados** para três formatos: `.CSV`, `.TXT` e `.XML`.  
 4. **Regista a execução num log** (`LOGS.txt`) — indicando a data, hora e se houve atualização de valores.
+5. **Envio de email com txt em anexo** — envia email com o TXT em anexo com as informações mais recentes.
+
 
 ---
 
@@ -47,6 +49,10 @@ A cada execução, o Pentaho:
 │
 
 └── LOGS.txt → Log da execução com data, hora e estado da atualização
+│
+
+└── EMAIL → Email com txt em anexo
+
 
 
 ---
@@ -74,6 +80,9 @@ O processo de ETL (Extract, Transform, Load) segue esta sequência:
 6. **EXTRACT TO LOG**  
    - Gera uma linha de log indicando o estado da atualização, data e hora.
 
+7. **SENT EMAIL**  
+   - Gera um email com um anexo das informações mais recentes.
+
 ---
 
 ## 📊 Exemplo de Log Gerado
@@ -98,7 +107,7 @@ O processo de ETL (Extract, Transform, Load) segue esta sequência:
 1. Abre o **Pentaho Spoon**.  
 2. Carrega o ficheiro `TrabalhoPraticoPrimeiraParte.ktr`.  
 3. Executa a transformação.  
-4. Os ficheiros exportados (`moedas.csv`, `moedas.txt`, `moedas.xml`) e o `LOGS.txt` serão atualizados automaticamente no disco C.
+4. Os ficheiros exportados (`moedas.csv`, `moedas.txt`, `moedas.xml`), `LOGS.txt` serão atualizados automaticamente no disco C e envio de email.
 
 ---
 
