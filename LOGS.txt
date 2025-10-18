@@ -1,0 +1,16 @@
+Transformação executada em 2025-10-18 às 16:46:27 — Moeda: BTC — Preço atual: 106925 — Rank: 1 — Última atualização: 2025-10-18T15:46:11.549Z — Atualizado
+Transformação executada em 2025-10-18 às 16:46:27 — Moeda: ETH — Preço atual: 3874.46 — Rank: 2 — Última atualização: 2025-10-18T15:46:11.503Z — Atualizado
+Transformação executada em 2025-10-18 às 16:46:27 — Moeda: SOL — Preço atual: 185.08 — Rank: 6 — Última atualização: 2025-10-18T15:46:23.990Z — Atualizado
+Transformação executada em 2025-10-18 às 16:46:27 — Moeda: ADA — Preço atual: 0.631409 — Rank: 11 — Última atualização: 2025-10-18T15:46:14.083Z — Atualizado
+------------------------------------------------------------
+
+
+
+Transformação executada em 2025-10-18 às 16:47:29 — Moeda: BTC — Preço atual: 106947 — Rank: 1 — Última atualização: 2025-10-18T15:47:23.507Z — Atualizado
+Transformação executada em 2025-10-18 às 16:47:29 — Moeda: ETH — Preço atual: 3875.39 — Rank: 2 — Última atualização: 2025-10-18T15:47:23.877Z — Atualizado
+Transformação executada em 2025-10-18 às 16:47:29 — Moeda: SOL — Preço atual: 185.11 — Rank: 6 — Última atualização: 2025-10-18T15:47:18.714Z — Atualizado
+Transformação executada em 2025-10-18 às 16:47:29 — Moeda: ADA — Preço atual: 0.631893 — Rank: 11 — Última atualização: 2025-10-18T15:47:21.942Z — Atualizado
+------------------------------------------------------------
+
+
+
